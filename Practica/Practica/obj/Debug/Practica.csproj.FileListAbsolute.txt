@@ -1,1 +1,6 @@
 C:\Users\Sala12\Documents\Ejemplo\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\Sala12\Documents\Ejemplo\Practica\Practica\obj\Debug\Practica.csprojResolveAssemblyReference.cache
+C:\Users\Sala12\Documents\Ejemplo\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\Sala12\Documents\Ejemplo\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\Sala12\Documents\Ejemplo\Practica\Practica\obj\Debug\Practica.exe
+C:\Users\Sala12\Documents\Ejemplo\Practica\Practica\obj\Debug\Practica.pdb
