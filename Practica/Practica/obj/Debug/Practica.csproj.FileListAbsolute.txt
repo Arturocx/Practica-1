@@ -4,3 +4,6 @@ C:\Users\Sala12\Documents\Ejemplo\Practica\Practica\bin\Debug\Practica.exe
 C:\Users\Sala12\Documents\Ejemplo\Practica\Practica\bin\Debug\Practica.pdb
 C:\Users\Sala12\Documents\Ejemplo\Practica\Practica\obj\Debug\Practica.exe
 C:\Users\Sala12\Documents\Ejemplo\Practica\Practica\obj\Debug\Practica.pdb
+C:\Users\Sala12\Documents\Practica-1\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\Sala12\Documents\Practica-1\Practica\Practica\obj\Debug\Practica.exe
+C:\Users\Sala12\Documents\Practica-1\Practica\Practica\obj\Debug\Practica.pdb
